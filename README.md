@@ -28,7 +28,7 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ## Scenario PLanning Tool :
-- **1.** Create Scenario PLanning Tool(https://github.com/Chetu6474/Excel-Projects/blob/main/Scenario%20Planning%20Tool.pdf)_ 
+- **1.** Create Scenario PLanning Tool_(https://github.com/Chetu6474/Excel-Projects/blob/main/Scenario%20Planning%20Tool.pdf)_ 
 
 
 ## Technical & Soft Skills:
