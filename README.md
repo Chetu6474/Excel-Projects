@@ -35,7 +35,7 @@
 
 ## Scenario PLanning Tool :
 - **1.** Create Scenario PLanning Tool [Tool](https://github.com/Chetu6474/Excel-Projects/blob/main/Scenario%20Planning%20Tool.pdf)
-- ![image](https://github.com/user-attachments/assets/4c3c181c-7099-40e7-823b-d8e7a1522b7f)
+![image](https://github.com/user-attachments/assets/4c3c181c-7099-40e7-823b-d8e7a1522b7f)
 
 
 
