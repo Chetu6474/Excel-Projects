@@ -4,7 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Final Report (Sales)](https://github.com/Chetu6474/Excel-Projects/blob/main/Final%20Report%20(Sales).pdf)_ 
+    **1.** Create a _[Final Report (Sales)](https://github.com/Chetu6474/Excel-Projects/blob/main/Final%20Report%20(Sales).pdf)_
+  ![image](https://github.com/user-attachments/assets/5b9e00d1-1131-425e-b4c1-8d24277a2706)
+
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
