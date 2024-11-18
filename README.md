@@ -19,7 +19,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Chetu6474/Excel-Projects/blob/main/Final%20Report2%20(Finance).pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Chetu6474/Excel-Projects/blob/main/Final%20Report2%20(Finance).pdf)_
+  ![image](https://github.com/user-attachments/assets/72e4cd2f-e124-40c6-b1e2-2bd929b83e7a)
+
 
     **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Chetu6474/Excel-Projects/blob/main/Final%20Report1%20(Finance).pdf)_
 
